@@ -1,4 +1,4 @@
-##Hospital Management System
+# Hospital Management System
  
 A Hospital Management System built using C++, designed to streamline hospital operations by managing patient records, doctor appointments, and billing.
 
